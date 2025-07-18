@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde ... 2024 <br><br>📚 Atualmente estou aprendendo ... Java, e aprendendo como funciona o universo da AWS cloud, alem de saber um pouco de html e css<br><br>🎯 Objetivos: ... Conseguir um estágio em desenvolvimento de sistemas, Contribuir para projetos  Desenvolver um portfólio sólido e me aprimorar como Profissional e Pessoa.<br><br>🎲 Fato curioso: ... Adoro explorar novas ferramentas de desenvolvimento, Meus primeiros códigos eram só Hello World</p>
+<p align="left">✨ Criando bugs desde ... 2024 <br><br>📚 Atualmente estou aprendendo ... Java, e aprendendo como funciona o universo da AWS cloud, alem do Python<br><br>🎯 Objetivos: ... Conseguir um estágio em desenvolvimento de sistemas, Contribuir para projetos  Desenvolver um portfólio sólido e me aprimorar como Profissional e Pessoa.<br><br>🎲 Fato curioso: ... Adoro explorar novas ferramentas de desenvolvimento, Meus primeiros códigos eram só Hello World</p>
 
 ###
 
