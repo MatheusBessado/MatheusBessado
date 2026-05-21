@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Front-end%20&%20Criativo&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Back-end%20&%20Cloud&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
 </div>
 
 <h3 align="center">
-  Transformando ideias complexas em experiências digitais elegantes, rápidas e acessíveis.
+  Construindo arquiteturas robustas, APIs escaláveis e soluções eficientes na nuvem.
 </h3>
 
 <p align="center">
@@ -14,33 +14,33 @@
 
 ## 👨‍💻 Sobre mim
 
-- ✨ **Criando bugs (e depois consertando-os)** desde 2024.
-- 📚 **Atualmente focado em:** Java, Python e explorando o universo da nuvem com **AWS**.
-- 🎯 **Objetivos:** Conseguir um estágio em desenvolvimento de sistemas, contribuir para projetos de impacto e consolidar um portfólio sólido.
-- 🎲 **Fato curioso:** Adoro testar novas ferramentas de desenvolvimento; meus primeiros códigos não passavam de simples "Hello World".
+- ✨ **Criando (e solucionando) bugs** desde 2024.
+- 📚 **Atualmente focado em:** Desenvolvimento Back-end com **Java**, **Python** e explorando a arquitetura em nuvem com **AWS**.
+- 🎯 **Objetivos:** Conseguir um estágio em desenvolvimento de sistemas (Backend), contribuir para projetos de impacto e consolidar minha base em engenharia de software.
+- 🎲 **Fato curioso:** Adoro explorar os bastidores de como sistemas de grande escala funcionam; meus primeiros códigos não passavam de simples "Hello World".
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <br>
-  
-  <!-- Backend & Languages -->
+  <!-- Backend & Cloud -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   
   <br>
   
-  <!-- Tools -->
+  <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  
+  <br>
+
+  <!-- Front-end Basics -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
 ---
