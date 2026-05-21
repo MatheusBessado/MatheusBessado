@@ -1,44 +1,65 @@
-<h1 align="left">Ola👋 Como Vocês estao?</h1>
-
-###
-
-<p align="left">Meu Nome e Matheus e atualmente eu resido no Brasil, especificamente em são paulo</p>
-
-###
-
-<h2 align="left">Sobre Mim</h2>
-
-###
-
-<p align="left">✨ Criando bugs desde ... 2024 <br><br>📚 Atualmente estou aprendendo ... Java, e aprendendo como funciona o universo da AWS cloud, alem do Python<br><br>🎯 Objetivos: ... Conseguir um estágio em desenvolvimento de sistemas, Contribuir para projetos  Desenvolver um portfólio sólido e me aprimorar como Profissional e Pessoa.<br><br>🎲 Fato curioso: ... Adoro explorar novas ferramentas de desenvolvimento, Meus primeiros códigos eram só Hello World</p>
-
-###
-
-<h2 align="left">Eu codo com</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Front-end%20&%20Criativo&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
 </div>
 
-###
+<h3 align="center">
+  Transformando ideias complexas em experiências digitais elegantes, rápidas e acessíveis.
+</h3>
 
+<p align="center">
+  📍 São Paulo, Brasil
+</p>
 
+---
 
-###
+## 👨‍💻 Sobre mim
+
+- ✨ **Criando bugs (e depois consertando-os)** desde 2024.
+- 📚 **Atualmente focado em:** Java, Python e explorando o universo da nuvem com **AWS**.
+- 🎯 **Objetivos:** Conseguir um estágio em desenvolvimento de sistemas, contribuir para projetos de impacto e consolidar um portfólio sólido.
+- 🎲 **Fato curioso:** Adoro testar novas ferramentas de desenvolvimento; meus primeiros códigos não passavam de simples "Hello World".
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBessado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBessado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <br>
+  
+  <!-- Backend & Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <br>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
 
-###
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBessado&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do Matheus" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBessado&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBessado&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-bessado-desenvolvedor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
