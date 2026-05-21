@@ -47,23 +47,14 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
-    <tr>
-      <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MatheusBessado&show_icons=true&bg_color=0a0a0a&text_color=888888&icon_color=0070f3&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true" height="165" alt="Estatísticas do Matheus" />
-      </td>
-      <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBessado&layout=compact&langs_count=5&bg_color=0a0a0a&text_color=888888&title_color=ffffff&border_color=333333" height="165" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none; background-color: transparent; padding-top: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBessado&background=0a0a0a&text=888888&dates=888888&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&border=333333" height="165" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBessado&show_icons=true&bg_color=0a0a0a&text_color=888888&icon_color=0070f3&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true&v=2" height="150" alt="Estatísticas do Matheus" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBessado&layout=compact&langs_count=5&bg_color=0a0a0a&text_color=888888&title_color=ffffff&border_color=333333&v=2" height="150" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBessado&background=0a0a0a&text=888888&dates=888888&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&border=333333&v=2" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
