@@ -1,30 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Back-end%20&%20Cloud&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
-</div>
-
-<h3 align="center">
-  Construindo arquiteturas robustas, APIs escaláveis e soluções eficientes na nuvem.
-</h3>
-
-<p align="center">
-  📍 São Paulo, Brasil
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-- ✨ **Criando (e solucionando) bugs** desde 2024.
-- 📚 **Atualmente focado em:** Desenvolvimento Back-end com **Java**, **Python** e explorando a arquitetura em nuvem com **AWS**.
-- 🎯 **Objetivos:** Conseguir um estágio em desenvolvimento de sistemas (Backend), contribuir para projetos de impacto e consolidar minha base em engenharia de software.
-- 🎲 **Fato curioso:** Adoro explorar os bastidores de como sistemas de grande escala funcionam; meus primeiros códigos não passavam de simples "Hello World".
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-
 # Olá, eu sou o Matheus Bessado 👋
 
 ### Engenharia de Dados & Inteligência Artificial
