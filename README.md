@@ -24,42 +24,74 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Backend & Cloud -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+# Olá, eu sou o Matheus Bessado 👋
+
+### Engenharia de Dados & Inteligência Artificial
+Python · SQL · ETL/ELT · Databricks · RAG
+
+Construindo minha carreira em dados e IA, com foco em automação, pipelines e aplicações com modelos de linguagem.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bessado-desenvolvedor/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusBessado)
+
+</div>
+
+---
+
+## Sobre mim
+
+- 💼 Estagiário em Tecnologia na Synchro, com atuação em CRM, relatórios e automação de processos.
+- 🎓 Graduando em Engenharia de Software.
+- 🐍 Desenvolvo projetos e aprofundo meus conhecimentos em Python e SQL.
+- 📚 Atualmente estudo Engenharia de Dados, Databricks e aplicações de IA com RAG.
+- 🎯 Busco oportunidades de estágio em Engenharia de Dados, IA e Automação.
+
+## Tecnologias e ferramentas
+
+**Dados e bancos de dados**
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  
-  <br>
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**Desenvolvimento e ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  
-  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-  <!-- Front-end Basics -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
+## Aprofundando meus estudos
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-0F766E?style=for-the-badge" alt="ETL e ELT" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="Modelos de linguagem" />
+</p>
+
+- **Engenharia de Dados:** ingestão, transformação e organização de dados.
+- **Databricks e PySpark:** DataFrames, Spark SQL e construção de pipelines.
+- **IA aplicada:** chatbots, recuperação de informações e bases de conhecimento.
+- **Automação:** integração de sistemas, consumo de APIs e geração de relatórios.
 
 ---
 
-## 📊 Estatísticas do GitHub
+<details>
+<summary>📊 Estatísticas do GitHub</summary>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MatheusBessado&show_icons=true&bg_color=0a0a0a&text_color=888888&icon_color=0070f3&title_color=ffffff&border_color=333333&count_private=true&v=4" height="150" alt="Estatísticas do Matheus" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=MatheusBessado&layout=compact&langs_count=5&bg_color=0a0a0a&text_color=888888&title_color=ffffff&border_color=333333&v=4" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MatheusBessado&show_icons=true&bg_color=0a0a0a&text_color=aaaaaa&icon_color=38bdf8&title_color=ffffff&border_color=333333" height="150" alt="Estatísticas do GitHub de Matheus" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=MatheusBessado&layout=compact&langs_count=6&bg_color=0a0a0a&text_color=aaaaaa&title_color=ffffff&border_color=333333" height="150" alt="Linguagens mais usadas nos repositórios públicos" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBessado&background=0a0a0a&text=888888&dates=888888&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&border=333333&v=2" height="150" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-bessado-desenvolvedor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+</details>
