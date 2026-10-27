@@ -13,8 +13,6 @@ Construindo minha carreira em dados e IA, com foco em automação, pipelines e a
 ---
 
 ## Sobre mim
-
-- 💼 Estagiário em Tecnologia na Synchro, com atuação em CRM, relatórios e automação de processos.
 - 🎓 Graduando em Engenharia de Software.
 - 🐍 Desenvolvo projetos e aprofundo meus conhecimentos em Python e SQL.
 - 📚 Atualmente estudo Engenharia de Dados, Databricks e aplicações de IA com RAG.
